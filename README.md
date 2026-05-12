@@ -31,15 +31,15 @@ class AbdulRauf:
 ╔═════════════════════════════════════════════════════════════════════╗
 ║                                                                     ║
 ║   🎮  Built a real-time game engine in x86 Assembly                 ║
-║        — before ever touching a web framework                       ║
+║         before ever touching a web framework                        ║
 ║                                                                     ║
 ║   🧠  I think in registers and pointers,                            ║
 ║        then switch to tensors and gradients by afternoon            ║
 ║                                                                     ║
 ║   🔧  Zero-STL challenge: built an entire data manager              ║
-║        using only raw C++ — no vectors, no maps, nothing            ║
+║        using only raw C++, no vectors, no maps, nothing             ║
 ║                                                                     ║
-║   📐  Graph theory isn't just academic to me —                      ║
+║   📐  Graph theory isn't just academic to me                        ║
 ║        I've implemented adjacency matrices from scratch             ║
 ║                                                                     ║
 ║   🚗  Designed a full ride-hailing database with surge              ║
