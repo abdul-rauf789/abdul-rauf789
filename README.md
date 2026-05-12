@@ -1,18 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██████╗ ██╗   ██╗██╗           ██████╗  █████╗ ██╗   ██╗███████╗   
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║           ██╔══██╗██╔══██╗██║   ██║██╔════╝
-███████║██████╔╝██║  ██║██║   ██║██║           ██████╔╝███████║██║   ██║█████╗  
-██╔══██║██╔══██╗██║  ██║██║   ██║██║           ██╔══██╗██╔══██║██║   ██║██╔══╝  
-██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗      ██║  ██║██║  ██║╚██████╔╝██║  
-╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  
-
-
-
-   
-   
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Abdul+Rauf+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+%26+Systems+Developer;Assembly+%E2%86%92+ML+Pipelines" alt="Typing SVG" />
 
 **AI & Systems Developer**
 
@@ -37,29 +25,33 @@ class AbdulRauf:
 
 ## ⚡ Fun Facts
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🎮  Built a real-time game engine in x86 Assembly              │
-│       — before ever touching a web framework                    │
-│                                                                 │
-│  🧠  I think in registers and pointers,                         │
-│       then switch to tensors and gradients by afternoon         │
-│                                                                 │
-│  🔧  Zero-STL challenge: built an entire data manager           │
-│       using only raw C++ — no vectors, no maps, nothing         │
-│                                                                 │
-│  📐  Graph theory isn't just academic to me —                   │
-│       I've implemented adjacency matrices from scratch          │
-│                                                                 │
-│  🚗  Designed a full ride-hailing database with surge           │
-│       pricing logic before ever using a backend framework       │
-│                                                                 │
-│  💡  Motto: "write code close to the machine,                   │
-│              think close to the problem"                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║   🎮  Built a real-time game engine in x86 Assembly                 ║
+║        — before ever touching a web framework                       ║
+║                                                                     ║
+║   🧠  I think in registers and pointers,                            ║
+║        then switch to tensors and gradients by afternoon            ║
+║                                                                     ║
+║   🔧  Zero-STL challenge: built an entire data manager              ║
+║        using only raw C++ — no vectors, no maps, nothing            ║
+║                                                                     ║
+║   📐  Graph theory isn't just academic to me —                      ║
+║        I've implemented adjacency matrices from scratch             ║
+║                                                                     ║
+║   🚗  Designed a full ride-hailing database with surge              ║
+║        pricing logic before ever using a backend framework          ║
+║                                                                     ║
+║   💡  Motto: "write code close to the machine,                      ║
+║               think close to the problem"                           ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
@@ -173,14 +165,27 @@ class AbdulRauf:
 
 ## 💡 What I'm About
 
+<div align="center">
+
+<h3>
+
 ```
-┌─────────────────────────────────────────────────────────┐
-│  Low-level systems  →  I speak Assembly fluently        │
-│  AI & ML pipelines  →  From data to deployment          │
-│  Full-stack web     →  UI down to the database schema   │
-│  Clean code         →  No spaghetti, ever               │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   Low-level systems  ──►  I speak Assembly fluently      ║
+║                                                          ║
+║   AI & ML pipelines  ──►  From data to deployment       ║
+║                                                          ║
+║   Full-stack web     ──►  UI down to the database        ║
+║                                                          ║
+║   Clean code         ──►  No spaghetti, ever            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+</h3>
+
+</div>
 
 ---
 
