@@ -1,6 +1,13 @@
 <div align="center">
 
 ```
+ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     
+███████║██████╔╝██║  ██║██║   ██║██║     
+██╔══██║██╔══██╗██║  ██║██║   ██║██║     
+██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝
+
 ██████╗  █████╗ ██╗   ██╗███████╗
 ██╔══██╗██╔══██╗██║   ██║██╔════╝
 ██████╔╝███████║██║   ██║█████╗  
@@ -9,16 +16,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     
 ```
 
-# `< Abdul Rauf />`
-
 **AI & Systems Developer**
 
 *From bare-metal x86 Assembly to ML pipelines — I build things that actually work.*
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrauf.123674@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/abdul-rauf-20a720328)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](http://github.com/abdul-rauf789)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923175904279)
 
 </div>
 
@@ -37,112 +37,71 @@ class AbdulRauf:
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Fun Facts
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🎮  Built a real-time game engine in x86 Assembly              │
+│       — before ever touching a web framework                    │
+│                                                                 │
+│  🧠  I think in registers and pointers,                         │
+│       then switch to tensors and gradients by afternoon         │
+│                                                                 │
+│  🔧  Zero-STL challenge: built an entire data manager           │
+│       using only raw C++ — no vectors, no maps, nothing         │
+│                                                                 │
+│  📐  Graph theory isn't just academic to me —                   │
+│       I've implemented adjacency matrices from scratch          │
+│                                                                 │
+│  🚗  Designed a full ride-hailing database with surge           │
+│       pricing logic before ever using a backend framework       │
+│                                                                 │
+│  💡  Motto: "write code close to the machine,                   │
+│              think close to the problem"                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-**Systems & Core**
+**— Systems & Core —**
 
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
-**AI / ML / Data**
+**— AI / ML / Data —**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Web & Databases**
+**— Web & Databases —**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**— Tools & Platforms —**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MASM](https://img.shields.io/badge/MASM-6E4C13?style=for-the-badge&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Rush Hour Game
-> **x86 Assembly + C++**
-
-Real-time console game with collision detection, multi-game modes, scoring system, and live timer — built from scratch at the metal level.
-
-`Assembly` `C++` `Game Engine` `Real-time`
-
-</td>
-<td width="50%">
-
-### 🗄️ RideFlow DBMS
-> **MySQL + JavaScript**
-
-Full ride-hailing database system with live UI, surge pricing engine, SQL triggers, and role-based access control.
-
-`MySQL` `JavaScript` `Triggers` `RBAC`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎬 Movie Data Manager
-> **C++**
-
-Custom data structure engine for large-scale record management — zero STL containers, everything handcrafted.
-
-`C++` `DSA` `Custom Structures`
-
-</td>
-<td width="50%">
-
-### 🔗 Graph Sequence Classifier
-> **C++**
-
-Classifies graph walks, trails, paths, and circuits using adjacency matrix logic with full graph theory implementation.
-
-`C++` `Graph Theory` `Algorithms`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ Restaurant Billing System
-> **Pure C**
-
-Menu-driven billing with receipt generation, manual string handling, and zero library dependencies.
-
-`C` `Systems` `Manual Parsing`
-
-</td>
-<td width="50%">
-
-### 🤖 [More Coming Soon...]
-> **AI & LLM Projects**
-
-Currently building AI automation pipelines and LLM integration projects. Watch this space.
-
-`Python` `LLMs` `AI Automation`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -167,6 +126,53 @@ Currently building AI automation pipelines and LLM integration projects. Watch t
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160">
+  <a href="mailto:abdulrauf.123674@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+    <sub><b>📬 Email Me</b></sub><br/>
+    <sub>abdulrauf.123674</sub>
+  </a>
+</td>
+<td align="center" width="160">
+  <a href="http://linkedin.com/in/abdul-rauf-20a720328">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+    <sub><b>💼 Let's Network</b></sub><br/>
+    <sub>abdul-rauf</sub>
+  </a>
+</td>
+<td align="center" width="160">
+  <a href="http://github.com/abdul-rauf789">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+    <sub><b>💻 See My Code</b></sub><br/>
+    <sub>abdul-rauf789</sub>
+  </a>
+</td>
+<td align="center" width="160">
+  <a href="https://wa.me/923175904279">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
+    <sub><b>💬 Chat Directly</b></sub><br/>
+    <sub>+92 317 5904279</sub>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+> 💼 **Open to internships** in AI · Software Development · Systems Programming
+>
+> 📬 Shoot me a message — I respond fast.
+
+</div>
+
+---
+
 ## 💡 What I'm About
 
 ```
@@ -177,8 +183,6 @@ Currently building AI automation pipelines and LLM integration projects. Watch t
 │  Clean code         →  No spaghetti, ever               │
 └─────────────────────────────────────────────────────────┘
 ```
-
-*"Write code close to the machine, think close to the problem."*
 
 ---
 
